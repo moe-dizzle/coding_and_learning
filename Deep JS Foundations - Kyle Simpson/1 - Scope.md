@@ -43,5 +43,5 @@
         - name is a handy/reliable self-reference
             - good for recursion 
             - name is immutable
-        - more debuggable stack traces ( good for production code!!! :simple_smile:)
+        - more debuggable stack traces ( good for production code!!! :simple_smile: )
         - self-documenting code :memo:
