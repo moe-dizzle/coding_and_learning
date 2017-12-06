@@ -1,4 +1,4 @@
-# Responsive Web Design (RWD) 101
+# 1 - Responsive Web Design (RWD) 101
 
 * **The web is _not_ fixed width**
 * honor the proportion of the design
