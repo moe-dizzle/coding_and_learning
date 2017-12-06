@@ -17,7 +17,7 @@
     * declarations compiled out
     * determine if LHS is in scope 
     * If LHS is unfulfilled in strict mode you get reference error
-    * If LHS is unfulfilled while not in strict mode, its added to global scope BAD!!! :scream: :astonished: :skull:
+    * If LHS is unfulfilled while not in strict mode, its added to global scope BAD!!! :scream: :dizzy_face: :skull:
     *  If RHS is unfulfilled, always get a reference error 
     *  undefined = declared but doesn't currently have a value
     *  not defined =  never been declared
