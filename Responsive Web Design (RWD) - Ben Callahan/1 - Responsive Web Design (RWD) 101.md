@@ -66,7 +66,7 @@
     * Contrast
         - test site in sun, in bed in dark room, experiment :eyes:
     * Readabiltiy 
-        -increase font size :eyeglasses:
+        -increase font size :mag:
          
     
     
