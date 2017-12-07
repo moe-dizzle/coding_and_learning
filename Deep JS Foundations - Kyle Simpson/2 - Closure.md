@@ -2,7 +2,7 @@
 1. Intro
     * closure = function remembers lexical scope , even if executed outside that scope :ok_woman:
     * can accidentally prevent a scope from being garbage collected when creating a closure 
-    *:star: a function != closure and closure != function :star:
+    * :star: a function != closure and closure != function :star:
         - closure is a characteristic of a function
         - it allow function to access outer variables independent of where it is invoked
     ```javascript
