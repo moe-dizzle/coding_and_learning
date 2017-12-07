@@ -17,7 +17,7 @@
     * show web interactions
     * [Our New Responsive Design Deliverable: The Style Prototype](https://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
     * [Responsive Comping: Obtaining Signoff without Mockups](http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups)
-    * collaboration is key (UX :x: UI :x: DEV :x: CONTENT)
+    * collaboration is key (UX  :x:  UI  :x:  DEV  :x:  CONTENT)
     * Priority = :arrow_up: importance as display size :arrow_down:
 
     
