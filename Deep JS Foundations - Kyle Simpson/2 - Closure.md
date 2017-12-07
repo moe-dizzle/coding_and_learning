@@ -21,7 +21,7 @@
     ```
     * each timeTimeOut is closing over the same i 
     ```javascript
-    //Fixed with an IIFE!
+    //Fixed with an function scoping (IIFE)!
     for (var i=1; i<=5; i++){
         function(i){
             setTimeout(function(){
