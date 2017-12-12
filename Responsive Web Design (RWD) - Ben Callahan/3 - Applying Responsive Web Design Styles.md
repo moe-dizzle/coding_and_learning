@@ -59,7 +59,7 @@
 3. Using EM-Based media Queries
     * more proportional
     * layout adjust on font-size (zooming in and out change layout)
-    * wroks RWD better
+    * works RWD better
 4. RWD Patterns: Navigation
     * high resolution show normal nav as get smaller show sandwich bar
         - need javascript (think what happens if JS disabled)
