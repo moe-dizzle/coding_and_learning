@@ -1,8 +1,7 @@
 # Object-Orienting
 
 1. ``this`` keyword
-    * ``this`` is dynamic scope
-    * **determining ``this``= how function is invoked**
+    * **determining ``this``= how function is invoked** = dynamic scope
         ```javascript
         function foo(){
             //this-aware function (it has ``this`` keyword)
