@@ -41,11 +41,11 @@
         1. creates new object
         2. newly created obj link to another obj
         3. the new created obj (from part 1) is passed in as ``this`` to function call
-        4. if no ``return`` statment in function, return ``this`` object
+        4. if no ``return`` statement in function, return ``this`` object
 
     * ``this`` determination
         1. if function is called by ``new``, ``this`` = newly created object, if not next
-        2. if function called explictly with ``call()`` or ``apply()`` use that context, if not next
+        2. if function called explicitly with ``call()`` or ``apply()`` use that context, if not next
             - Note ``bind()`` uses ``apply()`` underhood
         3. if was called with context object use that, if not next
         4. *DEFAULT*: ``this`` = global object unless in `strict mode` then ``this`` = ``undefined``
