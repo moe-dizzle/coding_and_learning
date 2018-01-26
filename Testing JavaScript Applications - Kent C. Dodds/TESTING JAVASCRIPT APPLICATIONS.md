@@ -28,9 +28,17 @@
 * make sure assertion runs
 * test object factory = factory that create passing object
 
-## 2 - TEST DRIVEN DEVELOPMENT (TDD)
+## 3 - TEST DRIVEN DEVELOPMENT (TDD)
 
 * write test first, then write implementation , then refactor
 * one test at a time
 * min code to pass test
-* doesn't work well when you don't know what the api will look like
+* doesn't work well when you don't know what the api will look like\
+
+## 4 - INTEGRATION TESTS
+
+* faker = randomly generated data
+  * assert on the schema (toMatchObject)
+* set up state, do assertions, then clean up
+* interact like a user
+*
