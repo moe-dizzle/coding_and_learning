@@ -48,3 +48,20 @@
   * Liskov Substitution Principle (LSP) = derived class more specific version of base
   * avoid deep inheritance trees
 * Law of Demeter = Obj `A` instanites an Obj `B`, then `A` can call `B` methods `A.B.method()` but if Obj `B` has an Obj `C` , `A` can't `A.B.C.method()` too deep
+
+## Chapter 7: High-Quality Routines
+
+### 7.1 Valid Reasons to Create a Routine
+
+* well name routine = self-documentation
+* don't be afraid to create small routines with a few lines of code
+  * self-docs
+  * hide operations as things get complex
+
+### 7.2 Design at the Routine Level
+
+* **_Functional cohesion_** = routines perform only one operatation
+
+### 7.3 Good routine names
+
+\*
