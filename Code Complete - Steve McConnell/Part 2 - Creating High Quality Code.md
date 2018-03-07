@@ -60,7 +60,7 @@
 
 ### 7.2 Design at the Routine Level
 
-* **_Functional cohesion_** = routines perform only one operatation
+* **_Functional cohesion_** = routines perform only one operation
 
 ### 7.3 Good routine names
 
