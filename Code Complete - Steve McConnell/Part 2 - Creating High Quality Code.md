@@ -64,4 +64,21 @@
 
 ### 7.3 Good routine names
 
-\*
+* Describe what routine does
+* for function -> use return val
+* for procedure -> use verb + object
+* make naming conventions when necessary
+
+### 7.4 How long can a Routine be?
+
+¯\_(ツ)\_/¯
+
+* get diffcult after 200 lines
+
+### 7.5 How to use Routine Paramaters
+
+* be consistent
+* put error/message/status variable last
+* document param assumpts and use asserts
+
+## Chapter 8 : Defensive programming
