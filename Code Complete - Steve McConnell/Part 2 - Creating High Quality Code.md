@@ -71,7 +71,7 @@
 
 ### 7.4 How long can a Routine be?
 
-¯\_(ツ)\_/¯
+`¯\_(ツ)\_/¯`
 
 * get diffcult after 200 lines
 
