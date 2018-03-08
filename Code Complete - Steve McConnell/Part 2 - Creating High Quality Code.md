@@ -82,3 +82,27 @@
 * document param assumpts and use asserts
 
 ## Chapter 8 : Defensive programming
+
+* program anticipating problems
+
+### 8.1 Protecting Your Program from Invalid Inputs
+
+* always check for bad data and handle
+
+### 8.2 Assertions
+
+* useful in large, complicated programs
+* assertions for dev, not prod ( compile them out for performance)
+* assertion != error, if assert not passed there is a bug not error
+* **assert = error that should never occur**
+* no executable code inside asserts
+
+### 8.4 Exceptions
+
+* use if can't handle error locally
+* exception consistent with level of abstraction
+
+### 8.6 Debugging Aids
+
+* PROD constraints doesn't mean DEV constraints
+  * trade speed and resources usage in DEV to use tools to aid development
